@@ -71,4 +71,5 @@ The final jpeg, once written on cd, is write protected,and the document will be 
 
 The password is: qwerty
 
-And, I had an idea about geo locking the file to a specific place(s). How cool wouldthat be?! Anybody could help on that, or the gui part, Thanks  For the Contribution!
+And, I had an idea about geo locking the file to a specific place(s).
+smartphones have gps.. on pcs, ip (crude) locations can be use! Android & IOS, welcome ;) How cool wouldthat be?! Anybody could help on that, or the gui part, Thanks  For the Contribution!
